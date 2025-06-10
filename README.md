@@ -3,21 +3,15 @@ This is a terminal-based resume, styled with ANSI colors and formatted across va
 
 ## Features
 - Terminal formatting with colors and animations
-
 - Fully modular structure
-
+- Cross-platform support: Linux, macOS, Windows (Terminal + Browser)
+- Great for learning CLI formatting, language syntax, and I/O
 - Implemented in:
-
     - Java
-
     - Python
-
     - Go
-
     - C++
-
     - HTML + CSS
-
     - Shell Script (Bash)
 
 ## How to Run
